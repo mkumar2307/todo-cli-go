@@ -21,7 +21,7 @@ go build -o todo
 
 Then move the binary into your $PATH:     
 ```bash
-mv todo ~/.local/bin/    # or /usr/local/bin/ (may require sudo)
+mv todo /usr/local/bin/    # or ~/.local/bin/ (may require sudo)
 ```
 
 Make sure ~/.local/bin is in your PATH:
