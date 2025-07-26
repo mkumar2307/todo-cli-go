@@ -68,9 +68,11 @@ $ todo list
 
 ## 💡 Contributing
 
-Contributions are welcome! Feel free to open issues or PRs for:
-	•	Feature requests
-	•	Bug fixes
+Contributions are welcome! Feel free to open issues or PRs for:      
+
+      
+	•	Feature requests        
+	•	Bug fixes          
 	•	Improvements
 
 
